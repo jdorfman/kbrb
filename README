@@ -1,1 +1,23 @@
+##    ## ########  ########  ########  
+##   ##  ##     ## ##     ## ##     ## 
+##  ##   ##     ## ##     ## ##     ## 
+#####    ########  ########  ########  
+##  ##   ##     ## ##   ##   ##     ## 
+##   ##  ##     ## ##    ##  ##     ## 
+##    ## ########  ##     ## ########  
+
+
 Just effin around with github. kthxbai
+
+if you plan on using this script basically it emails you a summary of what rsync did i.e.:
+
+sending incremental file list
+nagios.log
+retention.dat
+status.dat
+archives/
+archives/nagios-12-27-2010-00.log
+checkresults/
+
+sent 117369 bytes  received 232 bytes  33600.29 bytes/sec
+total size is 422455666  speedup is 3592.28
