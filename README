@@ -19,5 +19,5 @@ archives/
 archives/nagios-12-27-2010-00.log
 checkresults/
 
-sent 117369 bytes  received 232 bytes  33600.29 bytes/se
+sent 117369 bytes  received 232 bytes  33600.29 bytes/sec
 total size is 422455666  speedup is 3592.28
