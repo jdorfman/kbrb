@@ -7,9 +7,9 @@
 ##    ## ########  ##     ## ########  
 
 
-Just effin around with github. kthxbai
+Just effin around with github.
 
-if you plan on using this script basically it emails you a summary of what rsync did i.e.:
+if you plan on using this script basically it emails you a summary of what rsync did e.g.:
 
 sending incremental file list
 nagios.log
